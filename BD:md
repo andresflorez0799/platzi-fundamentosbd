@@ -1,0 +1,7 @@
+List databases: \l
+
+List tables: \dt
+
+Set database: \c database_name
+
+--id uuid DEFAULT uuid_generate_v4 (),
